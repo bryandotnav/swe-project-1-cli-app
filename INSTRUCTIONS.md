@@ -3,8 +3,8 @@
 - [Overview](#overview)
 - [Project Options](#project-options)
 - [Project Grading](#project-grading)
-  - [Technical Details (14 points)](#technical-details-14-points)
-  - [Professionalism \& Craftsmanship (6 points)](#professionalism--craftsmanship-6-points)
+  - [Technical Details (15 points)](#technical-details-15-points)
+  - [Professionalism \& Craftsmanship (5 points)](#professionalism--craftsmanship-5-points)
   - [Reflection (2 points)](#reflection-2-points)
 - [Tips for Success](#tips-for-success)
 - [Setup Instructions](#setup-instructions)
@@ -44,7 +44,7 @@ Develop a multiple-choice quiz application with questions, scoring, and replay f
 
 Your project will be assessed on the following criteria (22 points total):
 
-### Technical Details (14 points)
+### Technical Details (15 points)
 
 **Core JavaScript Concepts (7 points)**
 1. Variables: Uses clear, descriptive names that explain what data they hold
@@ -64,18 +64,18 @@ Your project will be assessed on the following criteria (22 points total):
   - A data layer (choose a name!) — handles the logic related to managing the data for your application.
 4. A `package.json` file exists and includes dependencies for the project
 
-**User Interaction (3 points)**
+**User Interaction (4 points)**
 1. Creates an interactive experience that responds to user choices using the `prompt-sync` package
 2. Provides warning messages when invalid input is provided and allows the user to try again.
 3. Provides confirmation messages when user actions are completed.
+4. All messages printed to the console have consistent spacing and are free of spelling and grammar mistakes.
 
-### Professionalism & Craftsmanship (6 points)
+### Professionalism & Craftsmanship (5 points)
 1. Code is functional and free of bugs. Does not throw errors when used under expected circumstances.
-2. Code is well-organized and adheres fully to style conventions (e.g. no linting errors). 
-3. Variable/function names are descriptive, comments are concise and purposeful, no unused code remains.
-4. Commits are small, frequent, and have meaningful commit messages.
-5. A branch is used for development while the `main` branch is always functional
-6. The `README.md` includes setup instructions, usage examples, and clear explanation of functionality. Writing is polished and accessible to peers.
+2. Code is well-organized, spacing is consistent, variable/function names are descriptive, comments are concise and purposeful, and no unused code remains.
+3. Commits are small, frequent, and have meaningful commit messages.
+4. A branch is used for development while the `main` branch is always functional
+5. The `README.md` includes setup instructions, usage examples, and clear explanation of functionality. Writing is polished and accessible to peers.
 
 ### Reflection (2 points)
 In `REFLECTION.md`, respond to the following prompts:
