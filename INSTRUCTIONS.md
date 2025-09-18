@@ -4,8 +4,8 @@
 - [Project Options](#project-options)
 - [Project Grading](#project-grading)
   - [Technical Details (15 points)](#technical-details-15-points)
-  - [Professionalism \& Craftsmanship (5 points)](#professionalism--craftsmanship-5-points)
   - [Reflection (2 points)](#reflection-2-points)
+  - [Professionalism \& Craftsmanship (5 points)](#professionalism--craftsmanship-5-points)
 - [Tips for Success](#tips-for-success)
 - [Setup Instructions](#setup-instructions)
 - [🎮 Project 1: Rock–Paper–Scissors CLI Game](#-project-1-rockpaperscissors-cli-game)
@@ -70,17 +70,19 @@ Your project will be assessed on the following criteria (22 points total):
 3. Provides confirmation messages when user actions are completed.
 4. All messages printed to the console have consistent spacing and are free of spelling and grammar mistakes.
 
+### Reflection (2 points)
+In `REFLECTION.md`, respond to the prompts below. Your responses should each contain about 150-250 words and demonstrate thoughtful reflection.
+
+  1. Share one aspect of building this project you found challenging and how you overcame it. Be specific in your response.
+  2. Share one technical concept that you gained a deeper understanding of through building this project. Explain that concept in simple terms and explain how it is used in your project.
+
 ### Professionalism & Craftsmanship (5 points)
 1. Code is functional and free of bugs. Does not throw errors when used under expected circumstances.
 2. Code is well-organized, spacing is consistent, variable/function names are descriptive, comments are concise and purposeful, and no unused code remains.
 3. Commits are small, frequent, and have meaningful commit messages.
 4. A branch is used for development while the `main` branch is always functional
-5. The `README.md` includes setup instructions, usage examples, and clear explanation of functionality. Writing is polished and accessible to peers.
+5. The `README.md` includes setup instructions, usage examples, and clear explanation of functionality. All writing in the `README.md` file and the `REFLECTION.md` file is polished and free of typos and grammatical errors.
 
-### Reflection (2 points)
-In `REFLECTION.md`, respond to the following prompts:
-  1. Share one aspect of building this project you found challenging and how you overcame it.
-  2. Share one technical concept that you gained a deeper understanding of through building this project. Explain that concept in simple terms and explain how it is used in your project.
 
 ## Tips for Success
 
