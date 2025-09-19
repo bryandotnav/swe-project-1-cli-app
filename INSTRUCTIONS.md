@@ -43,6 +43,9 @@ Develop a multiple-choice quiz application with questions, scoring, and replay f
 ## Project Grading
 
 Your project will be assessed on the following criteria (22 points total):
+* Technical Details (15 points)
+* Reflection (2 points)
+* Professionalism & Craftsmanship (5 points)
 
 ### Technical Details (15 points)
 
