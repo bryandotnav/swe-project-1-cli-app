@@ -51,8 +51,8 @@ Your project will be assessed on the following criteria (22 points total):
 2. Functions: Breaks code into multiple functions that each handle specific tasks
 3. Conditionals: Includes at least one `if/else` statement that changes behavior based on user input
 4. Loops: Uses at least one `while` loop to repeatedly prompt the user
-5. String Methods**: Uses string methods (like `.toLowerCase()`, `.trim()`, etc.) to validate user input
-6. Higher Order Array Methods**: Uses at least one array higher-order method (like `.forEach()`, `.filter()`, `.reduce()`, etc...)
+5. String Methods: Uses string methods (like `.toLowerCase()`, `.trim()`, etc.) to validate user input
+6. Higher Order Array Methods: Uses at least one array higher-order method (like `.forEach()`, `.filter()`, `.reduce()`, etc...)
 7. Objects: Uses at least one object to organize related data together
 
 **Code Organization (4 points)**
