@@ -71,7 +71,7 @@ Your project will be assessed on the following criteria (22 points total):
 4. All messages printed to the console have consistent spacing and are free of spelling and grammar mistakes.
 
 ### Reflection (2 points)
-In `REFLECTION.md`, respond to the prompts below. Your responses should each contain about 150-250 words and demonstrate thoughtful reflection.
+In `REFLECTIONS.md`, respond to the prompts below. Your responses should each contain about 150-250 words and demonstrate thoughtful reflection.
 
   1. Which project requirement did you find most challenging and how did you overcome this challenge? Be specific in your response.
   2. Share one technical concept that you gained a deeper understanding of through building this project. Explain that concept in simple terms and explain how it is used in your project.
