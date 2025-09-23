@@ -62,9 +62,9 @@ Your project will be assessed on the following criteria (22 points total):
 1. Split your code into **at least 3 separate modules** (files)
 2. Use `require()` and `module.exports` to connect your modules
 3. Follows a logical file structure:
-  - `index.js` — the entry point of the application that displays a menu to the user.
-  - `menu.js` — handles the main menu loop and handles user input.
-  - A data layer (choose a name!) — handles the logic related to managing the data for your application.
+    - `index.js` — the entry point of the application that displays a menu to the user.
+    - `menu.js` — handles the main menu loop and handles user input.
+    - A data layer (choose a name!) — handles the logic related to managing the data for your application.
 4. A `package.json` file exists and includes dependencies for the project
 
 **User Interaction (4 points)**
